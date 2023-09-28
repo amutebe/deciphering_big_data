@@ -1,2 +1,2 @@
 # deciphering_big_data
-learning artifacts and implementations
+learning data wrangling artifacts and implementation
